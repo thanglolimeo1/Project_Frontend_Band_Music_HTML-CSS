@@ -483,7 +483,10 @@ html{
     border: 1px solid #000;
     padding: 10px 16px;
     float: right;
-    margin-bottom: 15px
+    margin-bottom: 15px;
+    appearance : none;
+    -webkit-appearance: none;
+
 }
 
 .contact-form .form-submit-btn:hover {
